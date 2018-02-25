@@ -18,6 +18,6 @@ Server for the Steemifier browser extension
 
 
 # Production
-* execute `npm run build:dev` to start the development build
+* execute `npm run build` to start the production build
 * open a command line in the dist folder
 * execute `sls deploy`
